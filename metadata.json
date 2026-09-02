@@ -1,0 +1,6 @@
+{
+  "name": "Les Fermes Abidjanaises",
+  "description": "Application de gestion complète d'une exploitation de poulets de chair en Côte d'Ivoire (suivi des bandes, prophylaxie, stocks d'aliments, finances, commandes, vendeurs et partenaires).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
